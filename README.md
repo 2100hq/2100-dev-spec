@@ -1,1 +1,1 @@
-https://github.com/citizenhex/2100-spec/wiki
+https://github.com/citizenhex/2100-dev-spec/wiki
